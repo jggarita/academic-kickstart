@@ -26,13 +26,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Economics (Expected)
+  - course: PhD in Economics 
     institution: University of Texas at Austin
-    year: 2021
+    year: 2021 (Expected)
   - course: MSc. in Economics 
     institution: The University of Texas at Austin
     year: 2018
-  - course: BSc in Economics
+  - course: BSc. in Economics
     institution: University of Costa Rica
     year: 2012
 
@@ -43,10 +43,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:jgth24@utexas.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jggarita
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
