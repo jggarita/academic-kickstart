@@ -14,7 +14,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Austin
+- name: University of Texas at Austin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,15 +26,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Economics (Expected)
+    institution: University of Texas at Austin
+    year: 2021
+  - course: MSc. in Economics 
+    institution: The University of Texas at Austin
+    year: 2018
+  - course: BSc in Economics
+    institution: University of Costa Rica
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
