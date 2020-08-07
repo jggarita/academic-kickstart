@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:jgth24@utexas.edu".
+  link: 'mailto:jgth24@utexas.edu'  # For a direct email link, use "mailto:jgth24@utexas.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jggarita
