@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jgth24@utexas.edu'  # For a direct email link, use "mailto:jgth24@utexas.edu".
-- icon: twitter
+- icon: cv
   icon_pack: fab
   link: https://twitter.com/jggarita
 - icon: cv
