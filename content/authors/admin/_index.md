@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an Economics Ph.D. student at the University of Texas at Austin. My research focuses on analyzing wage determination and sorting in frictional and imperfectly competitive labor markets. My most recent work focuses on understanding how the labor market behaves under a restrictive minimum wage policy.
+I'm an Economics Ph.D. Candidate at the University of Texas at Austin. My research interests lie in analyzing wage determination and sorting in frictional and imperfectly competitive labor markets. My most recent work focuses on understanding how the labor market behaves under a restrictive minimum wage policy.
