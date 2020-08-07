@@ -41,15 +41,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:jgth24@utexas.edu'  # For a direct email link, use "mailto:jgth24@utexas.edu".
 - icon: cv
   icon_pack: ai
   link: https://twitter.com/jggarita
-- icon: cv
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:jgth24@utexas.edu'  # For a direct email link, use "mailto:jgth24@utexas.edu".
 # icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
