@@ -43,7 +43,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://twitter.com/jggarita
+  link: files/CV_JonathanGarita.pdf
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jgth24@utexas.edu'  # For a direct email link, use "mailto:jgth24@utexas.edu".
