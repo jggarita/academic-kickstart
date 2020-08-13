@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. Candidate!
 
 # Organizations/Affiliations
 organizations:
@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Economics 
+  - course: PhD in Economics
     institution: University of Texas at Austin
     year: 2021 (Expected)
-  - course: MSc. in Economics 
+  - course: MSc. in Economics
     institution: The University of Texas at Austin
     year: 2018
   - course: BSc. in Economics
