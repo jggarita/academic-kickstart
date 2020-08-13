@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate!
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
     institution: University of Texas at Austin
     year: 2021 (Expected)
   - course: MSc. in Economics
-    institution: The University of Texas at Austin
+    institution: University of Texas at Austin
     year: 2018
   - course: BSc. in Economics
     institution: University of Costa Rica
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an Economics Ph.D. Candidate at the University of Texas at Austin. My research interests lie in analyzing wage determination and sorting in frictional and imperfectly competitive labor markets. My most recent work focuses on understanding how the labor market behaves under a restrictive minimum wage policy.
+I'm an Economics Ph.D. Candidate at the <a href="https://liberalarts.utexas.edu/economics/">University of Texas at Austin</a>. My research interests lie in analyzing wage determination and sorting in frictional and imperfectly competitive labor markets. My most recent work focuses on understanding how the labor market behaves under a restrictive minimum wage policy.
