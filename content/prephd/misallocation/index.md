@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Misallocation"
+title: "Misallocation and Productivity in Costa Rica"
 authors: []
-date: 2020-08-15T13:17:26-05:00
-doi: ""
+date: 2018-08-15T13:17:26-05:00
+doi: "https://doi.org/10.1787/9789264298774-5-en"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-15T13:17:26-05:00
+publishDate: 2018-08-15T13:17:26-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: " "
 
 tags: []
 categories: []
@@ -42,11 +42,11 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://read.oecd-ilibrary.org/economics/oecd-economic-survey-of-costa-rica-research-findings-on-productivity/misallocation-and-productivity-in-costa-rica_9789264298774-5-en#page1
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
