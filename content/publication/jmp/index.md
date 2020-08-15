@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "This paper proposes a new approach to quantify the distributional effects of international trade. The starting point of my analysis is a Roy-like model where workers are heterogeneous in terms of their comparative and absolute advantage. In this environment, I show that the schedules of comparative and absolute advantage (i) determine changes in the average and the variance of the log-wage distribution, and (ii)"
 
 # Summary. An optional shortened abstract.
 summary: ""
