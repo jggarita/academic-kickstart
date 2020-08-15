@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "s"
+publication_short: ""
 
 abstract: "This paper analyzes the impact of minimum wages on firm dynamics. I  investigate Costa Rica's multi-tier setting, where minimum wages vary by occupations and increases are sizeable and permanent. I assemble rich administrative data covering the universe of workers and firms to construct accurate measures of exposure to the policy. Then I implement difference-in-differences strategies that exploit the distinctive heterogeneity derived from the system to infer firm responses and the impact on business entry and exit. Results suggest that the policy substantially increased labor costs for exposed firms. Firms respond by reducing employment, while revenues, productivity, and capital adoption increase. On the extensive margin, exposure to the minimum wage disproportionately hits low-productive units to exit the market, while it harms business creation, as industries with average exposure experience lower startup rates. Hence, strong labor market regulation is a relevant determinant of the number and the size of new participants."
 
