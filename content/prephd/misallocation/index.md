@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Misallocation and Productivity in Costa Rica"
-authors: []
+authors: [Jonathan Garita and Alonso Alfaro]
 date: 2018-08-15T13:17:26-05:00
 doi: "https://doi.org/10.1787/9789264298774-5-en"
 
