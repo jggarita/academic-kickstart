@@ -3,23 +3,23 @@
 
 title: "Firm Dynamics and Minimum Wages: Evidence From Costa Rica's Multi-Tier System"
 authors: []
-date: 2020-08-15T00:59:19-05:00
+date: 2020-08-15T01:07:54-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-15T00:59:19-05:00
+publishDate: 2020-08-15T01:07:54-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: "This paper proposes a new approach to quantify the distributional effects of international trade. The starting point of my analysis is a Roy-like model where workers are heterogeneous in terms of their comparative and absolute advantage. In this environment, I show that the schedules of comparative and absolute advantage (i) determine changes in the average and the variance of the log-wage distribution, and (ii)"
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
