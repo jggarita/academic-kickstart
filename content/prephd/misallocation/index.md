@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Misallocation and Productivity in Costa Rica"
-authors: [Jonathan Garita and Alonso Alfaro]
+authors: [With Alonso Alfaro]
 date: 2018-08-15T13:17:26-05:00
 doi: "https://doi.org/10.1787/9789264298774-5-en"
 
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code: https://read.oecd-ilibrary.org/economics/oecd-economic-survey-of-costa-rica-research-findings-on-productivity/misallocation-and-productivity-in-costa-rica_9789264298774-5-en#page1
+url_code:
 url_dataset:
 url_poster:
 url_project:
