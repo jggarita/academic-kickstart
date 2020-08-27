@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "This paper provides new evidence on the impact of minimum wages on workers' wages and firm employment"
 
 # Summary. An optional shortened abstract.
 summary: " "
