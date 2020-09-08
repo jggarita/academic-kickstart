@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Minimum Wages, Employment Flows and Inequality: New Evidence From Costa Rica"
+title: "Minimum Wages, Employment Flows and Firm Policies: New Evidence From Costa Rica"
 authors: []
 date: 2020-08-15T01:07:54-05:00
 doi: ""
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper provides new evidence on the impact of minimum wages on workers' wages and firm employment"
+abstract: "This paper provides new evidence on the effects of minimum wages on employment flows and firm pay policies. I analyze Costa Rica's labor market as its minimum wage setting is highly binding, adjustments are sizeable and permanent, and the minimum wages are set by occupation. I exploit comprehensive administrative data to construct accurate firm-level measures of exposure and to identify employment transitions properly. Then, I estimate an extension of the AKM model to compute time-varying firm pay policies. Results suggest that firms adjusted their pay premiums in compliance with the minimum wage, leading to a compression in between-firm inequality. Firms reduced their employment stock, with minimum wage elasticities around -0.10. As minimum wage exposure increases, firms hire less and separates more workers. However,  poaching separation rates decline with exposure to the policy."
 
 # Summary. An optional shortened abstract.
 summary: " "
