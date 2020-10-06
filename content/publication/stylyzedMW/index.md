@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper provides new evidence on the effects of minimum wages on employment flows and firm pay policies. I analyze Costa Rica's labor market as its minimum wage setting is highly binding, adjustments are sizeable and permanent, and the minimum wages are set by occupation. I exploit comprehensive administrative data to construct accurate firm-level measures of exposure and to identify employment transitions properly. Then, I estimate an extension of the AKM model to compute time-varying firm pay policies. Results suggest that firms adjusted their pay premiums in compliance with the minimum wage, leading to a compression in between-firm inequality. Firms reduced their employment stock, with minimum wage elasticities around -0.10. As minimum wage exposure increases, firms hire less and separates more workers. However,  poaching separation rates decline with exposure to the policy."
+abstract: "This paper provides new evidence on the minimum wage impact on employment flows. I examine Costa Rica's distinctive occupation-based setting in which minimum wage adjustments are sizable and permanent. I construct accurate minimum wage exposure measures and transition rates from administrative data from 2006-2017 to estimate the firm's short and longer-term responses to the policy. Results indicate that firms increase their firm pay premiums in compliance with the policy. Firms adjust by reducing their employment stock, with elasticities around -0.1. Minimum wage exposure has a negative and longstanding impact on hiring rates and a positive but transitory effect on separation rates."
 
 # Summary. An optional shortened abstract.
 summary: " "
