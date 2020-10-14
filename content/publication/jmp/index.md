@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "Draft Coming Soon"
+publication_short: "Draft Coming Soon!"
 
 abstract: "This paper analyzes the impact of minimum wages on firm entry, firm exit, and the primary margins of response for incumbent firms. I examine Costa Rica's setting in which minimum wages vary by occupations, levels are highly binding, and increases are sizeable and permanent. I assemble rich administrative data covering the universe of workers and firms in 2006-2017 to construct accurate exposure measures to the minimum wage policy. Minimum wage exposure induces firms to reduce employment, switch towards capital, and attain labor productivity improvements. In compliance with the policy, firms increase their labor shares, suffer a decline in profitability, and are more likely to exit. Finally, raising minimum wages lowers firm entry, with an estimated adverse effect on employment of 0.8 percent."
 
