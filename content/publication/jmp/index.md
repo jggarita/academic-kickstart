@@ -38,6 +38,7 @@ publications: false
 #   icon: twitter
 
 #url_pdf: publication\jmp\jmp.pdf
+url_pdf: https://jonathangarita.com/#about
 url_code:
 url_dataset:
 url_poster:
