@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper provides new evidence on the minimum wage impact on employment flows. I examine Costa Rica's distinctive occupation-based setting in which minimum wage adjustments are sizable and permanent. I construct accurate minimum wage exposure measures and transition rates from administrative data from 2006-2017 to estimate the firm's short and longer-term responses to the policy. Results indicate that firms increase their firm pay premiums in compliance with the policy. Firms adjust by reducing their employment stock, with elasticities around -0.1. Minimum wage exposure has a negative and longstanding impact on hiring rates and a positive but transitory effect on separation rates."
+abstract: "This paper provides new evidence on the minimum wage impact on employment flows. I examine Costa Rica's distinctive occupation-based setting in which minimum wage adjustments are sizable and permanent. I construct accurate minimum wage exposure measures and transition rates from administrative data from 2006-2017 to estimate short and longer-term responses to the policy. Results indicate that firms increase their pay premiums in compliance with the policy. Firms reduce their employment levels, with elasticities around -0.1. Minimum wage exposure has a negative and longstanding impact on hiring rates and a positive but transitory effect on separation rates. I rationalize the results with a wage-posting model featuring worker and firm heterogeneity and endogenous job creation."
 
 # Summary. An optional shortened abstract.
 summary: " "
