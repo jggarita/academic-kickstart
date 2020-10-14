@@ -16,7 +16,7 @@ publishDate: 2018-08-15T13:17:26-05:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "OECD Economic Survey of Costa Rica: Research Findings on Productivity"
 publication_short: ""
 
 abstract: "This paper documents the effect of resource misallocation on Costa Rica’s aggregate total factor productivity (TFP) using the Hsieh and Klenow (2009) methodology. The model suggests theoretical TFP gains of around 50%-60% for the overall economy and 10%-15% for the manufacturing sector when the United States’ level of efficiency is used as a benchmark. Evidence of a deterioration in the efficiency of resource allocation over the period 2005-2015 was not found, and misallocation seems to be greater in the agricultural sector. Small and large firms face advantageous output distortions relative to medium-sized firms, and small firms tend to also face disadvantageous capital distortions. Furthermore, our results also suggest that small firms have experienced higher growth in both capital and output wedges. Finally, distortions create incentives for firms to exit the market and thwart the entrance of new participants in an industry."
