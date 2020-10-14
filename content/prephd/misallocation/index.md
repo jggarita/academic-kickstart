@@ -3,8 +3,8 @@
 
 title: "Misallocation and Productivity in Costa Rica"
 authors: [With Alonso Alfaro-Urena]
-date: 2020-08-15T01:07:54-05:00
-doi: "https://doi.org/10.1787/9789264298774-5-en"
+date: 2018-08-15T01:07:54-05:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-15T01:07:54-05:00
@@ -17,7 +17,7 @@ publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "OECD"
 
 abstract: "This paper documents the effect of resource misallocation on Costa Rica’s aggregate total factor productivity (TFP) using the Hsieh and Klenow (2009) methodology. The model suggests theoretical TFP gains of around 50%-60% for the overall economy and 10%-15% for the manufacturing sector when the United States’ level of efficiency is used as a benchmark. Evidence of a deterioration in the efficiency of resource allocation over the period 2005-2015 was not found, and misallocation seems to be greater in the agricultural sector. Small and large firms face advantageous output distortions relative to medium-sized firms, and small firms tend to also face disadvantageous capital distortions. Furthermore, our results also suggest that small firms have experienced higher growth in both capital and output wedges. Finally, distortions create incentives for firms to exit the market and thwart the entrance of new participants in an industry."
 
@@ -27,6 +27,7 @@ summary: "(2018) OECD Economic Survey of Costa Rica: Research Findings on Produc
 tags: []
 categories: []
 featured: true
+publications: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,13 +37,14 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+#url_pdf: publication\jmp\jmp.pdf
+url_pdf: https://read.oecd-ilibrary.org/economics/oecd-economic-survey-of-costa-rica-research-findings-on-productivity/misallocation-and-productivity-in-costa-rica_9789264298774-5-en#page1
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
-url_source: https://read.oecd-ilibrary.org/economics/oecd-economic-survey-of-costa-rica-research-findings-on-productivity/misallocation-and-productivity-in-costa-rica_9789264298774-5-en#page1
+#url_slides: publication\jmp\jmp.pdf
+url_source:
 url_video:
 
 # Featured image
