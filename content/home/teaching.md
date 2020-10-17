@@ -22,22 +22,23 @@ date_format = "Jan 2006"
   company = "University of Texas at Austin"
   company_url = ""
   location = ""
-  date_start = "2017-01-01"
+  date_start = "2017-09-01"
   date_end = ""
   description = """
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Probability and Statistics (MA) (Summer 2020)
+  * Economics of the European Union (Spring 2020)
+  * International Trade and Investment (Fall 2018, 2020)
+  * Energy Economics (Spring 2018)
+  * Introduction to Macroeconomics (Fall 2017)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Instructor"
+  company = "University of Costa Rica"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2013-01-01"
+  date_end = "2013-07-31"
+  description = """Introduction to Economics"""
 
 +++
