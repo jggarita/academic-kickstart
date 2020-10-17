@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Texas at Austin"
   company_url = ""
   location = ""
-  date_start = ""
+  date_start = "2017"
   date_end = ""
   description = """
 
