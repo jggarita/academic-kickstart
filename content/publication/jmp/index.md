@@ -38,7 +38,7 @@ publications: false
 #   icon: twitter
 
 #url_pdf: publication\jmp\jmp.pdf
-url_pdf: publication\jmp\MW_JMP_JG.pdf
+url_pdf: "publication/jmp/MW_JMP_JG.pdf"
 url_code:
 url_dataset:
 url_poster:
