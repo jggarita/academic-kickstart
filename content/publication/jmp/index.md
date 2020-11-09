@@ -43,7 +43,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-#url_slides: publication\jmp\jmp.pdf
+url_slides: C:\Users\Jonathan\Dropbox\Apps\Overleaf\MinimumWages\MW_JMP_JG.pdf
 url_source:
 url_video:
 
