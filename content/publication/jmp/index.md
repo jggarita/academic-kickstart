@@ -3,11 +3,11 @@
 
 title: "Firm Dynamics and Minimum Wages: Evidence From Costa Rica's Occupation-Based System"
 authors: []
-date: 2020-08-15T01:07:54-05:00
+date: 2020-11-15T01:07:54-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-15T01:07:54-05:00
+publishDate: 2020-11-15T01:07:54-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,8 +37,7 @@ publications: false
 #   icon_pack: fab
 #   icon: twitter
 
-#url_pdf: publication\jmp\jmp.pdf
-url_pdf: "publication/jmp/MW_JMP_JG.pdf"
+#url_pdf: "publication/jmp/MW_JMP_JG.pdf"
 url_code:
 url_dataset:
 url_poster:
