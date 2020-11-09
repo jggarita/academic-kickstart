@@ -38,12 +38,12 @@ publications: false
 #   icon: twitter
 
 #url_pdf: publication\jmp\jmp.pdf
-url_pdf: https://jonathangarita.com/#about
+url_pdf: publication\jmp\MW_JMP_JG.pdf
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: C:\Users\Jonathan\Dropbox\Apps\Overleaf\MinimumWages\MW_JMP_JG.pdf
+#url_slides:
 url_source:
 url_video:
 
