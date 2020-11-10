@@ -37,7 +37,7 @@ publications: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://jonathangarita.com/#about
+#url_pdf: https://jonathangarita.com/#about
 url_code:
 url_dataset:
 url_poster:
