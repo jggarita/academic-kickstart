@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include macro-labor economics, minimum wage policies and imperfectly competitive labor markets
+bio: My research interests include macro-labor economics and industrial organization
 
 interests:
 - Macro-Labor Economics
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Texas at Austin
-    year: 2021 (Expected)
+    year: 2016-2021 (Expected)
   - course: MSc. in Economics
     institution: University of Texas at Austin
     year: 2018
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an Economics Ph.D. Candidate at the <a href="https://liberalarts.utexas.edu/economics/">University of Texas at Austin</a>. My research interests lie in analyzing wage determination and sorting in frictional and imperfectly competitive labor markets. My most recent work investigates the effect of minimum wage policies on firms.
+I am an Economics Ph.D. Candidate at the <a href="https://liberalarts.utexas.edu/economics/">University of Texas at Austin</a>. My research interests lie in the intersection between macroeconomics, labor, and industrial organization. My recent work investigates the effect of minimum wage policies on firms.
