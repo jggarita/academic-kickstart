@@ -42,7 +42,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-#url_slides: publication\jmp\jmp.pdf
+url_slides: publication\jmp\MW_JMP_JG.pdf
 url_source:
 url_video:
 
