@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Minimum Wages, Employment Flows and Firm Policies: New Evidence From Costa Rica"
+title: "Minimum Wages, Firm Pay Policies and Employment Flows"
 authors: []
 date: 2020-11-01T01:07:54-05:00
 doi: ""
