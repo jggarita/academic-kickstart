@@ -69,4 +69,4 @@ user_groups:
 
 I am an Economics Ph.D. Candidate at the <a href="https://liberalarts.utexas.edu/economics/">University of Texas at Austin</a>. My research interests lie in the intersection between macroeconomics, labor, and industrial organization. My recent work investigates the effect of minimum wage policies on firms.
 
-I am currently on the job market and available for interviews at the European Job Market 2020 and the ASSA 2021 Job Market Interviews.
+I am currently on the job market and available for interviews at the European Job Market 2020 and the ASSA 2021 Job Market.
