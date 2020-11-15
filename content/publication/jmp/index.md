@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Minimum Wages and Capital-Labor Substitution"
+title: "Firm Dynamics and Minimum Wages: Evidence From Costa Rica's Occupation-Based System"
 authors: []
-date: 2020-11-12T01:07:54-05:00
+date: 2020-11-01T01:07:54-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-12T01:07:54-05:00
+publishDate: 2020-11-01T01:07:54-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,12 +17,12 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "Job Market Paper. Updated Frequently"
 
-abstract: ""
+abstract: "This paper analyzes the impact of minimum wages on different margins of firm dynamics, using Costa Rica's occupation-specific minimum wage setting. To this purpose, I assemble rich administrative data covering the universe of workers and firms in the 2006-2017 period to construct firm-level exposure measures to the minimum wage policy, and estimate the impact of differential exposure to the minimum wage on firm outcomes at several year horizons. The analysis yields two important results: First, minimum wages induce firms to increase their labor shares, but with a negative and longstanding impact on their profitability. The positive effect on the labor shares moderates as firms reduce their employment levels and expand their capital stocks. Second, raising minimum wages increases firm exit and lowers firm entry, with an estimated adverse effect on employment of 0.8 percent due to the missing entrants associated with the policy."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This paper analyzes the impact of minimum wages on different margins of firm dynamics, using Costa Rica's occupation-specific minimum wage setting. To this purpose, I assemble rich administrative data covering the universe of workers and firms in the 2006-2017 period to construct firm-level exposure measures to the minimum wage policy, and estimate the impact of differential exposure to the minimum wage on firm outcomes at several year horizons. The analysis yields two important results: First, minimum wages induce firms to increase their labor shares, but with a negative and longstanding impact on their profitability. The positive effect on the labor shares moderates as firms reduce their employment levels and expand their capital stocks. Second, raising minimum wages increases firm exit and lowers firm entry, with an estimated adverse effect on employment of 0.8 percent due to the missing entrants associated with the policy."
 
 tags: []
 categories: []
