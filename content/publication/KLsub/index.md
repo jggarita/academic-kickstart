@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Minimum Wages, Firm Pay Policies and Employment Flows"
+title: "Minimum Wages and Capital-Labor Substitution"
 authors: []
 date: 2020-11-01T01:07:54-05:00
 doi: ""
@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: "Draft Coming Soon!"
 
-abstract: "This paper provides new evidence on the minimum wage impact on employment flows, using Costa Rica's distinctive occupation-based setting in which minimum wage adjustments are sizable and permanent. I construct firm-level minimum wage exposure measures and transition rates from administrative data from 2006-2017 to estimate short and longer-term responses to the policy. Results indicate that firms increase their pay premiums in compliance with the policy. However, higher minimum wages have a negative and persistent impact on hiring rates and induce a temporary increase in separation rates. Still, the policy helps firms to retain workers from moving to other firms. I propose a wage-posting model featuring worker and firm heterogeneity and endogenous job creation to rationalize the results."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "This paper provides new evidence on the minimum wage impact on employment flows, using Costa Rica's distinctive occupation-based setting in which minimum wage adjustments are sizable and permanent. I construct firm-level minimum wage exposure measures and transition rates from administrative data from 2006-2017 to estimate short and longer-term responses to the policy. Results indicate that firms increase their pay premiums in compliance with the policy. However, higher minimum wages have a negative and persistent impact on hiring rates and induce a temporary increase in separation rates. Still, the policy helps firms to retain workers from moving to other firms. I propose a wage-posting model featuring worker and firm heterogeneity and endogenous job creation to rationalize the results."
+summary: ""
 
 tags: []
 categories: []
