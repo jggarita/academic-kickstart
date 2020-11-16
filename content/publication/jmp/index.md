@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Firm Dynamics and Minimum Wages: Evidence From Costa Rica's Occupation-Based System"
+title: "Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System"
 authors: []
 date: 2020-11-14T01:07:54-05:00
 doi: ""
