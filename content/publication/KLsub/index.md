@@ -37,12 +37,12 @@ publications: false
 #   icon_pack: fab
 #   icon: twitter
 
-#url_pdf: https://jonathangarita.com/#about
+url_pdf: publication\KLsub\CapitalLaborSubstitution.pdf
 url_code:
 url_dataset:
 url_poster:
 url_project:
-#url_slides: publication\jmp\MW_JMP_JG.pdf
+#url_slides:
 url_source:
 url_video:
 
