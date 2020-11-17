@@ -37,7 +37,7 @@ publications: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "publication/KLsub/CapitalLaborSubstitution.pdf"
+#url_pdf: "publication/KLsub/CapitalLaborSubstitution.pdf"
 url_code:
 url_dataset:
 url_poster:
