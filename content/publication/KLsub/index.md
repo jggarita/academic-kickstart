@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "Draft Coming Soon!"
+publication_short: "New Draft Coming Soon!"
 
 abstract: "This paper studies the capital-labor substitution effects associated with higher minimum wages, using Costa Rica's rich administrative data. I exploit this country's occupation-based setting to estimate average and sector-specific elasticities of substitution between capital and labor. In this case, the policy establishes a relevant minimum wage for both low and higher-skilled occupations. I find elasticities consistently below one, suggesting that the substitution away from labor towards capital is not large enough to reduce the labor share after a minimum wage increase. Specifically, I compute an elasticity of 0.59 for all firms, and significant heterogeneity across representative sectors, stressing differences in the production technologies across industries. The estimated value is higher in manufacturing (0.81) and tradable sectors (0.76) but smaller in non-tradable sectors (0.46)."
 
