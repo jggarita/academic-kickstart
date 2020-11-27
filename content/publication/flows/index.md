@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "New Draft Coming Soon!"
+publication_short: "New Draft. New Update Coming Soon"
 
 abstract: "This paper provides new evidence on the minimum wage impact on employment flows, using Costa Rica's distinctive occupation-based setting. I use administrative data from 2006-2017 to estimate firm-level minimum wage exposure and compute dynamic responses to the policy. Results indicate that firms increase their pay premiums in compliance with the policy. However, higher minimum wages have a negative and lasting effect on hiring rates and induce a temporary increase in separation rates. Job-to-job separation rates, on the contrary, decline after a minimum wage increase. I propose a wage-posting model with endogenous job creation to rationalize the results."
 
