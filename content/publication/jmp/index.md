@@ -3,11 +3,11 @@
 
 title: "Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System"
 authors: []
-date: 2020-11-14T01:07:54-05:00
+date: 2021-04-14T01:07:54-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-14T01:07:54-05:00
+publishDate: 2021-04-14T01:07:54-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: "Job Market Paper. New Draft Coming Soon"
 
-abstract: "This paper analyzes the impact of minimum wages on different margins of firm dynamics using Costa Rica's occupation-specific minimum wage setting. To this purpose, I assemble rich administrative data covering the universe of workers and firms in the 2006-2017 period to construct firm-level exposure measures to the minimum wage policy, and estimate the impact of differential exposure to the minimum wage on firm outcomes at several year horizons. The analysis yields two important results: First, minimum wages induce firms to increase their labor shares, but with a negative and persistent impact on their profitability. The positive effect on the labor shares moderates as firms reduce their employment levels and expand their capital stocks. Second, raising minimum wages increases firm exit and lowers firm entry, with an estimated adverse effect on employment of 0.8 percent due to the missing entrants associated with the policy."
+abstract: "This paper analyzes the firm dynamics of adjustment to higher minimum wages using Costa Rica's occupation-specific minimum wage setting. To this purpose, I assemble rich administrative data covering the universe of workers and firms in the 2006-2017 period to construct firm-level measures of compliance cost, and estimate the impact of differential exposure to the minimum wage on firm outcomes at several year horizons. The analysis yields two important results: First, minimum wages induce firms to increase their labor shares, but with a negative and persistent impact on their profitability. The positive effect on the labor shares moderates as firms reduce their employment levels and expand their capital stocks. Second, raising minimum wages has a detrimental impact on aggregate employment dynamics by reducing firm entry, with an estimated adverse effect on employment of 0.8 percent due to the missing entrants associated with the policy."
 
 # Summary. An optional shortened abstract.
-summary: "This paper analyzes the impact of minimum wages on different margins of firm dynamics using Costa Rica's occupation-specific minimum wage setting. To this purpose, I assemble rich administrative data covering the universe of workers and firms in the 2006-2017 period to construct firm-level exposure measures to the minimum wage policy, and estimate the impact of differential exposure to the minimum wage on firm outcomes at several year horizons. The analysis yields two important results: First, minimum wages induce firms to increase their labor shares, but with a negative and persistent impact on their profitability. The positive effect on the labor shares moderates as firms reduce their employment levels and expand their capital stocks. Second, raising minimum wages increases firm exit and lowers firm entry, with an estimated adverse effect on employment of 0.8 percent due to the missing entrants associated with the policy."
+summary: "This paper analyzes the firm dynamics of adjustment to higher minimum wages using Costa Rica's occupation-specific minimum wage setting. To this purpose, I assemble rich administrative data covering the universe of workers and firms in the 2006-2017 period to construct firm-level measures of compliance cost, and estimate the impact of differential exposure to the minimum wage on firm outcomes at several year horizons. The analysis yields two important results: First, minimum wages induce firms to increase their labor shares, but with a negative and persistent impact on their profitability. The positive effect on the labor shares moderates as firms reduce their employment levels and expand their capital stocks. Second, raising minimum wages has a detrimental impact on aggregate employment dynamics by reducing firm entry, with an estimated adverse effect on employment of 0.8 percent due to the missing entrants associated with the policy."
 
 tags: []
 categories: []
